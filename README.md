@@ -1,1 +1,1 @@
-# angular-practice
+# angular-tutorial
