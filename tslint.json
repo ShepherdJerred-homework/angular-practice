@@ -1,7 +1,5 @@
 {
-  "extends": [
-    "tslint-config-semistandard"
-  ],
+  "extends": "tslint-config-semistandard",
   "rulesDirectory": [
     "node_modules/codelyzer"
   ],
